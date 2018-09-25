@@ -22,3 +22,21 @@ TEST(computeFail, should_pass) {
   pid.setKi(0.0);
   EXPECT_NE(3, pid.compute(1, 10));
 }
+
+TEST(setKp, should_pass) {
+  PIDController pid;
+  pid.setKp(0.2);
+  EXPECT_DOUBLE_EQ(0.2, pid.getKp());
+}
+
+TEST(setKi, should_pass) {
+  PIDController pid;
+  pid.setKi(0.2);
+  EXPECT_DOUBLE_EQ(0.2, pid.getKi());
+}
+
+TEST(setKd, should_pass) {
+  PIDController pid;
+  pid.setKd(0.2);
+  EXPECT_DOUBLE_EQ(0.2, pid.getKd());
+}
