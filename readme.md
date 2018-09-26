@@ -7,11 +7,11 @@
 
 ## Authors
 ### Part 1
-    Akshay Rajaraman : *Driver*
-    Jerrar Bukhari : *Navigator*
+   Akshay Rajaraman : *Driver*
+   Jerrar Bukhari : *Navigator*
 ### Part 2
-    Bala Sai Sudhakar : *Driver*
-    Rishabh Choudhary : *Navigator*
+   Bala Sai Sudhakar : *Driver*
+   Rishabh Choudhary : *Navigator*
 
 ## Project flow
 Part 1: 
@@ -25,11 +25,11 @@ Part 2:
     Complete the implementation of the class and fix them till the unit tests pass.
 
 ## PART 1 IMPLEMENTATION
-    ### UML CLASS DIAGRAM
-        ![alt text](https://raw.githubusercontent.com/AkshayRajaramanSubramanian/cpp-boilerplate/blob/master/UMLClassDiagram.jpeg)
-    ### UML ACTIVITY DIAGRAM
-        ![alt text](https://raw.githubusercontent.com/AkshayRajaramanSubramanian/cpp-boilerplate/blob/master/ActivityDiagram.jpeg)
+   ### UML CLASS DIAGRAM
+   ![alt text](https://raw.githubusercontent.com/AkshayRajaramanSubramanian/cpp-boilerplate/blob/master/UMLClassDiagram.jpeg)
+   ### UML ACTIVITY DIAGRAM
+   ![alt text](https://raw.githubusercontent.com/AkshayRajaramanSubramanian/cpp-boilerplate/blob/master/ActivityDiagram.jpeg)
 ## PART 2 IMPLEMENTATION
-    ### RESULT
-        **Travis build : PASSED**
-        **Coverage     : 100%**
+   ### RESULT
+   **Travis build : PASSED**
+   **Coverage     : 100%**
