@@ -26,9 +26,9 @@ Part 2:
 
 ### UML CLASS DIAGRAM
    <p align="center">
-     <img src="https://github.com/AkshayRajaramanSubramanian/cpp-boilerplate/blob/master/UMLClassDiagram.jpeg">
+     <img src="https://github.com/AkshayRajaramanSubramanian/cpp-boilerplate/blob/master/UMLClassDiagram.jpeg"/>
    </p>
 ### UML ACTIVITY DIAGRAM
    <p align="center">
-      <img src="https://github.com/AkshayRajaramanSubramanian/cpp-boilerplate/blob/master/ActivityDiagram.jpeg">
+      <img src="https://github.com/AkshayRajaramanSubramanian/cpp-boilerplate/blob/master/ActivityDiagram.jpeg"/>
    </p>
