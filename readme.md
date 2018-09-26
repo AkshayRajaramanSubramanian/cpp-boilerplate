@@ -24,11 +24,11 @@ Part 1:
 Part 2:
     Complete the implementation of the class and fix them till the unit tests pass.
 
-   ### UML CLASS DIAGRAM
+### UML CLASS DIAGRAM
    <p align="center">
      <img src="https://github.com/AkshayRajaramanSubramanian/cpp-boilerplate/blob/master/UMLClassDiagram.jpeg">
    </p>
-   ### UML ACTIVITY DIAGRAM
+### UML ACTIVITY DIAGRAM
    <p align="center">
       <img src="https://github.com/AkshayRajaramanSubramanian/cpp-boilerplate/blob/master/ActivityDiagram.jpeg">
    </p>
