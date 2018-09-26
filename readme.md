@@ -27,11 +27,11 @@ Part 2:
 ## PART 1 IMPLEMENTATION
    ### UML CLASS DIAGRAM
    <p align="center">
-   ![Class Diagram](https://github.com/AkshayRajaramanSubramanian/cpp-boilerplate/blob/master/UMLClassDiagram.jpeg)
+     <img src="https://github.com/AkshayRajaramanSubramanian/cpp-boilerplate/blob/master/UMLClassDiagram.jpeg">
    </p>
    ### UML ACTIVITY DIAGRAM
    <p align="center">
-   ![Activity Diagram](https://github.com/AkshayRajaramanSubramanian/cpp-boilerplate/blob/master/ActivityDiagram.jpeg)
+      <img src="https://github.com/AkshayRajaramanSubramanian/cpp-boilerplate/blob/master/ActivityDiagram.jpeg">
    </p>
 ## PART 2 IMPLEMENTATION
    ### RESULT
