@@ -1,9 +1,9 @@
-# C++ Boilerplate
+# Test Driven Development Programming Assignment for ENPM808X
+
 [![Build Status](https://travis-ci.org/AkshayRajaramanSubramanian/cpp-boilerplate.svg?branch=master)](https://travis-ci.org/AkshayRajaramanSubramanian/cpp-boilerplate)
 [![Coverage Status](https://coveralls.io/repos/github/AkshayRajaramanSubramanian/cpp-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/AkshayRajaramanSubramanian/cpp-boilerplate?branch=master)
 ---
 
-# Test Driven Development Programming Assignment for ENPM808X
 
 ## Authors
 ### Part 1
