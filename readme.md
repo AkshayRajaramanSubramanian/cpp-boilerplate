@@ -33,7 +33,7 @@ Part 2:
    <p align="center">
       <img src="https://github.com/AkshayRajaramanSubramanian/cpp-boilerplate/blob/master/ActivityDiagram.jpeg">
    </p>
-## PART 2 IMPLEMENTATION
-### RESULT
+## PART 2 IMPLEMENTATION  
+### RESULT  
 **Travis build : PASSED** </br>
 **Coverage     : 100%** </br>  
