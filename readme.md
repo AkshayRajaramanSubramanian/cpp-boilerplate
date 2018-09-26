@@ -24,7 +24,6 @@ Part 1:
 Part 2:
     Complete the implementation of the class and fix them till the unit tests pass.
 
-## PART 1 IMPLEMENTATION
    ### UML CLASS DIAGRAM
    <p align="center">
      <img src="https://github.com/AkshayRajaramanSubramanian/cpp-boilerplate/blob/master/UMLClassDiagram.jpeg">
@@ -33,7 +32,3 @@ Part 2:
    <p align="center">
       <img src="https://github.com/AkshayRajaramanSubramanian/cpp-boilerplate/blob/master/ActivityDiagram.jpeg">
    </p>
-## PART 2 IMPLEMENTATION  
-### RESULT  
-**Travis build : PASSED** </br>
-**Coverage     : 100%** </br>  
