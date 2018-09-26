@@ -26,9 +26,9 @@ Part 2:
 
 ## PART 1 IMPLEMENTATION
    ### UML CLASS DIAGRAM
-   ![alt text](https://raw.githubusercontent.com/AkshayRajaramanSubramanian/cpp-boilerplate/blob/master/UMLClassDiagram.jpeg)
+   ![alt text](https://www.github.com/AkshayRajaramanSubramanian/cpp-boilerplate/blob/master/UMLClassDiagram.jpeg)
    ### UML ACTIVITY DIAGRAM
-   ![alt text](https://raw.githubusercontent.com/AkshayRajaramanSubramanian/cpp-boilerplate/blob/master/ActivityDiagram.jpeg)
+   ![alt text](https://www.github.com/AkshayRajaramanSubramanian/cpp-boilerplate/blob/master/ActivityDiagram.jpeg)
 ## PART 2 IMPLEMENTATION
    ### RESULT
    **Travis build : PASSED**
