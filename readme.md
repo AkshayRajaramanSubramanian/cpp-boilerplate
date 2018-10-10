@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/AkshayRajaramanSubramanian/cpp-boilerplate.svg?branch=master)](https://travis-ci.org/AkshayRajaramanSubramanian/cpp-boilerplate)
 [![Coverage Status](https://coveralls.io/repos/github/AkshayRajaramanSubramanian/cpp-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/AkshayRajaramanSubramanian/cpp-boilerplate?branch=master)
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/AkshayRajaramanSubramanian/cpp-boilerplate)
+
 ---
 
 
